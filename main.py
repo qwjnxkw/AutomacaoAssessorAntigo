@@ -2,6 +2,7 @@ import pandas as pd
 import os
 from glob import glob
 
+
 # Diretório contendo os arquivos históricos
 diretorio_historico = r"C:\Users\gabriel.martins\Downloads\2021.11.30_BaseBTG"
 arquivo_atual = r"C:\Users\gabriel.martins\Downloads\Base BTG.new.xlsx"  # Arquivo mais recente

@@ -17,4 +17,5 @@ if 'Conta' in df.columns:
     
     print("Duplicatas removidas e arquivo atualizado com sucesso.")
 else:
+    
     print("A coluna 'Conta' não existe no arquivo.")
