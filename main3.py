@@ -2,7 +2,8 @@ import pandas as pd
 import os
 
 
-# Caminhos dos arquivos
+# Caminhos dos 
+#arquivos
 diretorio_downloads = os.path.join(os.path.expanduser("~"), "Downloads")
 arquivo_historico = os.path.join(diretorio_downloads, "historico_clientes_1393034.0.xlsx")
 arquivo_atual = os.path.join(diretorio_downloads, "Base BTG ApenasWertDigital.xlsx")

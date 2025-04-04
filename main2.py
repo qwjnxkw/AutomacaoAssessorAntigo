@@ -1,6 +1,7 @@
 import pandas as pd
 
-# Caminho do arquivo Excel
+# Caminho do arquivo 
+# Excel
 arquivo_excel = r"C:\Users\gabriel.martins\Downloads\historico_clientes_1393034.0.xlsx"
 
 # Carregar o arquivo Excel

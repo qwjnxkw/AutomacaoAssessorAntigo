@@ -3,7 +3,8 @@ import os
 from glob import glob
 
 
-# Input do usuário
+# Input do 
+# usuário
 codigo_assessor_anterior = input("Digite o código do assessor que deseja verificar: ")
 codigo_assessor_atual = "4062851.0"  # Substitua pelo código real de "Wert Digital"
 
